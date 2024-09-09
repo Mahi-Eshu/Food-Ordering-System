@@ -1,0 +1,24 @@
+# Ignore all .class files
+*.class
+
+# Ignore all files in the bin directory
+bin/
+
+# Ignore all files in the out directory
+out/
+
+# If you're using an IDE like IntelliJ IDEA, you might also want to ignore:
+.idea/
+*.iml
+
+# For Eclipse:
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
